@@ -1,0 +1,4 @@
+name: TestProjekt
+version: '${project.version}'
+main: lux.luxlp.testprojekt.TestProjekt
+api-version: 1.21
